@@ -1,4 +1,3 @@
 # inspid
-A game for the TI-84 Plus CE.
-
-work in progress
+A very unfinished "game" I never had time to work on.
+Made for the TI-84+ CE Calculator.
